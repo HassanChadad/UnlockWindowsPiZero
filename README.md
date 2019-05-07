@@ -166,7 +166,7 @@ Cracks easy passwords because it would take a lot of time to crack strong or med
 Any anti-virus can detect this attack and disable it, so it would be better to use it on previous Windows OS versions like (Windows XP, vista, 7) where the anti-virus is not installed builtin like Windows Defender in Windows 8 and 10.
 
 ## Other kinds of Pi zero ducky attacks
-[Backdoor attack](https://github.com/ohbriansung/usb_rubber_ducky/tree/master/pi_zero_ducky)
+[Backdoor attack by Brian Sung](https://github.com/ohbriansung/usb_rubber_ducky/tree/master/pi_zero_ducky)
 
 ## Disclaimer
 
