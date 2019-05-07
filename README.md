@@ -165,6 +165,6 @@ Cracks easy passwords because it would take a lot of time to crack strong or med
 
 Any anti-virus can detect this attack and disable it, so it would be better to use it on previous Windows OS versions like (Windows XP, vista, 7) where the anti-virus is not installed builtin like Windows Defender in Windows 8 and 10.
 
-## Desclaimer
+## Disclaimer
 
 This project is only for acedemic purposes and not intended for offensive and harmful attacks. It is developed as a project for one of the courses
