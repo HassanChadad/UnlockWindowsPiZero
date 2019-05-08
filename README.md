@@ -136,7 +136,7 @@ If the payload couldn't unlock the machine, then:
 2. the files will show the machine's name, date, and if cracked
 3. Choose one of the file and open it
 4. Copy the hash
-5. Open https://crackstation.net/ or anyother hash cracker like HashCat
+5. Open https://www.openwall.com/john/ or anyother hash cracker like HashCat
 6. Paste the hash and Press "Crack Hashes"
 
 ## Getting The Password Hash of an Unlocked Windows Machine
